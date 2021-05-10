@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.574f9ab1.chunk.css",
+    "main.js": "/static/js/main.21563ac5.chunk.js",
+    "main.js.map": "/static/js/main.21563ac5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ae4750d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ae4750d.js.map",
+    "static/js/2.695d5891.chunk.js": "/static/js/2.695d5891.chunk.js",
+    "static/js/2.695d5891.chunk.js.map": "/static/js/2.695d5891.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.574f9ab1.chunk.css.map": "/static/css/main.574f9ab1.chunk.css.map",
+    "static/js/2.695d5891.chunk.js.LICENSE.txt": "/static/js/2.695d5891.chunk.js.LICENSE.txt",
+    "static/media/404.6cbb31cc.png": "/static/media/404.6cbb31cc.png",
+    "static/media/another.3b98eb6b.svg": "/static/media/another.3b98eb6b.svg",
+    "static/media/bakugan.7ebcaae6.svg": "/static/media/bakugan.7ebcaae6.svg",
+    "static/media/gintama.605482fc.png": "/static/media/gintama.605482fc.png",
+    "static/media/goku.38124f46.svg": "/static/media/goku.38124f46.svg",
+    "static/media/naruto.0f695805.svg": "/static/media/naruto.0f695805.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae4750d.js",
+    "static/js/2.695d5891.chunk.js",
+    "static/css/main.574f9ab1.chunk.css",
+    "static/js/main.21563ac5.chunk.js"
+  ]
+}
