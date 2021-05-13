@@ -1,0 +1,18 @@
+/*
+* Author : VickySuraj
+* Created on: Thursday 13 May 2021 01:07:02 PM 
+* Copyright (c) 2021 VRAJ Incorporation
+*/
+
+<!DOCTYPE.html>
+<html>
+  <body>
+    <script>
+      function redirectTo(){
+        var requestedPathName = location.pathName;
+	location.href = `${location.origin}?r=${requestedPathName}`;
+      }
+      redirectTo();
+    </script>
+  </body>
+</html>
